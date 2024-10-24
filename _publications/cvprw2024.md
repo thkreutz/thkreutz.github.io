@@ -1,7 +1,7 @@
 ---
 title: "Implicit Neural Clustering"
 collection: publications
-category: conferences
+category: workshops
 permalink: /publication/cvprw2024
 excerpt: "Recent advances in generative models have revolutionized the controllable synthesis of realistic data for computer vision tasks. Despite their recent impact on tasks like classification and representation learning, their potential in clustering, a related and fundamental unsupervised learning technique, remains largely unexplored. Traditionally, clustering involves partitioning a dataset based on handcrafted or learned feature representations paired with a similarity metric. Our paper turns this paradigm on its head by proposing a different perspective on clustering from the view of implicit generative modeling. We propose the concept of Implicit Neural Clustering, in which clusters are generated implicitly through a generative model that is controllable by disentangled factors of variation. Specifically, we address the challenge of implicit multi-partition clustering, where a dataset may exhibit multiple plausible clusterings representing different class categories. Our contribution is threefold: We introduce a rigorous mathematical definition of Implicit Neural Clustering, propose a straightforward sampling strategy to perform implicit multi-partition clustering, and provide preliminary empirical evidence for the effectiveness of our approach on synthetic data."
 date: 2024-06-17

@@ -21,10 +21,10 @@ repository               : "thkreutz/thkreutz.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "seattle_profile.png"
+  avatar           : "seattle_profile.jpeg"
   name             : "Thomas Kreutz"
   pronouns         : # example: "she/her"  
-  bio              : "Urban Scene Understanding and Representation Learning"
+  bio              : "Unsupervised ML for Urban Scene Understanding"
   location         : "Darmstadt, Germany"
   employer         : "Technical University of Darmstadt"
   uri              : # URL
@@ -77,10 +77,10 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  workshops:
+    title: 'Workshop Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
