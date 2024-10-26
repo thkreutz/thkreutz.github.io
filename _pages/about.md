@@ -13,9 +13,8 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
 - [Jul, 2024] Paper accepted to IROS 2024 <span style="color: #006400;">[Oral]</span>
 - [April, 2024] Paper accepted to the SynData4CV Workshop@ CVPR 2024
 - [Feb, 2024] Paper accepted to the Second Tiny Papers Track at ICLR 2024 <span style="color: #006400;">[Invite to present]</span>
-- [Dec, 2023] Finished 6 x Software Campus Trainings at Industry Partners
 - [Oct, 2022] Paper accepted to WACV 2023
-- [Jul, 2022] Accepted as Software Campus Candidate
+- [Jul, 2022] Accepted as participant to the 2022 <a href="https://softwarecampus.de/en/program/">Software Campus</a> 
 - [Jun, 2022] Paper accepted to ITSC 2022
 
 ## Peer-reviewed Publications
@@ -29,6 +28,8 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
             <a href="https://github.com/JensLe97/lion-xa">Code</a>
     </div>
 </div>
+
+
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img src="/images/publication_images/inc.png" alt="b" width="250px">
