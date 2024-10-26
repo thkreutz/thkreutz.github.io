@@ -19,8 +19,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
 - [Jun, 2022] Paper accepted to ITSC2022
 
 ## Peer-reviewed Publications
-
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img src="/images/publication_images/LionXA.png" alt="a" width="250px">
     <div>
         <h3>LiOn-XA: Unsupervised Domain Adaptation via LiDAR-Only Cross-Modal Adversarial Training</h3>
@@ -33,7 +32,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
     </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img src="/images/publication_images/inc.png" alt="b" width="250px">
     <div>
         <h3>Implicit Neural Clustering</h3>
@@ -45,7 +44,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
     </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img src="/images/publication_images/csi.png" alt="b" width="250px">
     <div>
         <h3>Common Sense Initialization of Mixture Density Networks for Motion Planning with Overestimated Number of Components</h3>
@@ -57,7 +56,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
     </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img src="/images/publication_images/mots.png" alt="b" width="250px">
     <div>
         <h3>Unsupervised 4D LiDAR Moving Object Segmentation in Stationary Settings With Multivariate Occupancy Time Series</h3>
@@ -71,7 +70,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
 </div>
 
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img src="/images/publication_images/itsc.jpg" alt="b" width="250px">
     <div>
         <h3>Unsupervised Driving Event Discovery based on Vehicle CAN-Data</h3>
