@@ -33,7 +33,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img src="/images/publication_images/inc.png" alt="b" width="250px">
     <div>
-        <strong>Implicit Neural Clustering</strong>
+        <strong>Implicit Neural Clustering</strong></br>
         Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</br>
         <em>Synthetic Data for Computer Vision Workshop@ CVPR 2024</em></br>
             <a href="/files/kreutz2024implicit.pdf">PDF</a>
