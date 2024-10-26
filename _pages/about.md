@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi🤗, I'm Thomas."
+title: "Hi, I'm Thomas. 🤗"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. My ma
 - [April, 2024] 🤘 Paper accepted to the SynData4CV Workshop@ CVPR 2024
 - [Feb, 2024] 🤘 Paper accepted to the Second Tiny Papers Track at ICLR 2024 <span style="color: #006400;">[Invite to present]</span>
 - [Oct, 2022] 🤘 Paper accepted to WACV 2023
-- [Jul, 2022] 🔥 Got accepted into the <a href="https://softwarecampus.de/en/program/">Software Campus (2022)</a> program. *Update* Dec, 2023: Finished all 6 trainings regarding methods, social competences.
+- [Jul, 2022] 🔥 Got accepted into the <a href="https://softwarecampus.de/en/program/">Software Campus (2022)</a> program. *Update Dec, 2023*: Finished all 6 trainings on methods, social competences, and leadership.
 - [Jun, 2022] 🤘 Paper accepted to ITSC 2022
 
 ## Peer-reviewed Publications
