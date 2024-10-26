@@ -14,7 +14,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
 - [April, 2024] Paper accepted to the SynData4CV Workshop@ CVPR 2024
 - [Feb, 2024] Paper accepted to the Second Tiny Papers Track at ICLR 2024 <span style="color: #006400;">[Invite to present]</span>
 - [Oct, 2022] Paper accepted to WACV 2023
-- [Jul, 2022] Accepted as participant to the 2022 <a href="https://softwarecampus.de/en/program/">Software Campus</a> 
+- [Jul, 2022] Accepted as participant into the 2022 <a href="https://softwarecampus.de/en/program/">Software Campus</a> program
 - [Jun, 2022] Paper accepted to ITSC 2022
 
 ## Peer-reviewed Publications
