@@ -12,15 +12,11 @@ Hi! I am a PhD student (02-2022-?) at the Technical University of Darmstadt. My 
 ## Recent highlights
 - [Oct, 2024] Presented Paper at IROS2024
 - [Jul, 2024] IROS2024 Acceptance notification
-- [Jul, 2024] Presented Poster of Workshop Paper at CVPR2024
 - [April, 2024] CVPR2024 Syndata4CV Workshop Acceptance notification
-- [Mai, 2024] Presented Poster of Tiny Paper at ICLR2024
 - [Feb, 2024] ICLR2024 Tiny Papers Track Acceptance notification
 - [Dec, 2023] Finished 6 x Software Campus Trainings at Industry Partners
-- [Jan, 2023] Presented Paper + Poster at WACV2023
 - [Oct, 2022] WACV2023 Acceptance notification
-- [Oct, 2022] Presented Paper at ITSC2022
-- [Jul, 2022] Accepted as Candidate for Software Campus with Software AG as partner.
+- [Jul, 2022] Accepted as Software Campus Candidate
 - [Jun, 2022] ITSC2022 Acceptance notification
 
 ## Peer-reviewed Publications
