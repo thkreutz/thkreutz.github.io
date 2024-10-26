@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD student (02-2022-?) at the Technical University of Darmstadt. My main research interests are unsupervised machine learning methods (e.g., clustering, SSL, disentangled representation learning) and deep generative models. My work evolves around applying these kinds of methods for scene understanding in urban environments. In this context, I mainly work with perception tasks (motion segmentation, semantic segmentation), crowd simulation, and snythetic data generation. Data modalities span LiDAR point cloud (videos), images, and (multivariate) time series data. Check out my publications if you are interested in my work.
+Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. My main research interests are unsupervised machine learning methods (e.g., clustering, SSL, disentangled representation learning) and deep generative models. My work evolves around applying these kinds of methods for scene understanding in urban environments. In this context, I mainly work with perception tasks (motion segmentation, semantic segmentation), crowd simulation, and snythetic data generation. Data modalities span LiDAR point cloud (videos), images, and (multivariate) time series data. Check out my publications if you are interested in my work.
 
 ## Recent highlights
 - [Jul, 2024] Paper accepted to IROS2024
@@ -20,8 +20,8 @@ Hi! I am a PhD student (02-2022-?) at the Technical University of Darmstadt. My 
 
 ## Peer-reviewed Publications
 
-<div style="display: flex; align-items: center; gap: 20px;">
-    <img src="/images/publication_images/LionXA.png" alt="a" width="200px">
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+    <img src="/images/publication_images/LionXA.png" alt="a" width="250px">
     <div>
         <h3>LiOn-XA: Unsupervised Domain Adaptation via LiDAR-Only Cross-Modal Adversarial Training</h3>
         <p><strong>Thomas Kreutz, Jens Lemke, Max Mühlhäuser, Alejandro Sanchez Guinea</strong></p>
@@ -33,14 +33,53 @@ Hi! I am a PhD student (02-2022-?) at the Technical University of Darmstadt. My 
     </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-    <img src="/images/publication_images/inc.png" alt="b" width="200px">
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+    <img src="/images/publication_images/inc.png" alt="b" width="250px">
     <div>
         <h3>Implicit Neural Clustering</h3>
         <p><strong>Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</strong></p>
         <p><em>Synthetic Data for Computer Vision Workshop@ CVPR 2024</em></p>
         <p>
-            <a href="/files/kreutz2024implicit.pdf">PDF</a> |
+            <a href="/files/kreutz2024implicit.pdf">PDF</a>
         </p>
     </div>
 </div>
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+    <img src="/images/publication_images/csi.png" alt="b" width="250px">
+    <div>
+        <h3>Common Sense Initialization of Mixture Density Networks for Motion Planning with Overestimated Number of Components</h3>
+        <p><strong>Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</strong></p>
+        <p><em>SThe Second Tiny Papers Track at ICLR 2024</em></p>
+        <p>
+            <a href="/files/kreutz2024common.pdf">PDF</a>
+        </p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+    <img src="/images/publication_images/mots.png" alt="b" width="250px">
+    <div>
+        <h3>Unsupervised 4D LiDAR Moving Object Segmentation in Stationary Settings With Multivariate Occupancy Time Series</h3>
+        <p><strong>Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</strong></p>
+        <p><em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023</em></p>
+        <p>
+            <a href="/files/kreutz2023unsupervised.pdf">PDF</a> |
+            <a href="https://github.com/thkreutz/umosmots">Code</a>
+        </p>
+    </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+    <img src="/images/publication_images/itsc.jpg" alt="b" width="250px">
+    <div>
+        <h3>Unsupervised Driving Event Discovery based on Vehicle CAN-Data</h3>
+        <p><strong>Thomas Kreutz, Ousama Esbel, Max Mühlhäuser, Alejandro Sanchez Guinea</strong></p>
+        <p><em>2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)</em></p>
+        <p>
+            <a href="/files/kreutz2022unsupervised.pdf">PDF</a>
+        </p>
+    </div>
+</div>
+
