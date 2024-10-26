@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Thomas."
+title: "Hi🤗, I'm Thomas."
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,12 +10,12 @@ redirect_from:
 I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. My main research interests are unsupervised machine learning methods (e.g., clustering, SSL, disentangled representation learning) and deep generative models. My work evolves around applying these kinds of methods for scene understanding in urban environments. In this context, I mainly work with perception tasks (motion segmentation, semantic segmentation), crowd simulation, and snythetic data generation. Data modalities span LiDAR point cloud (videos), images, and (multivariate) time series data. Please find my peer-reviewed publications below if you are interested in my work.
 
 ## Recent highlights
-- [Jul, 2024] Paper accepted to IROS 2024 <span style="color: #006400;">[Oral]</span>
-- [April, 2024] Paper accepted to the SynData4CV Workshop@ CVPR 2024
-- [Feb, 2024] Paper accepted to the Second Tiny Papers Track at ICLR 2024 <span style="color: #006400;">[Invite to present]</span>
-- [Oct, 2022] Paper accepted to WACV 2023
-- [Jul, 2022] Accepted as participant into the 2022 <a href="https://softwarecampus.de/en/program/">Software Campus</a> program
-- [Jun, 2022] Paper accepted to ITSC 2022
+- [Jul, 2024] 🤘 Paper accepted to IROS 2024 <span style="color: #006400;">[Oral]</span>
+- [April, 2024] 🤘 Paper accepted to the SynData4CV Workshop@ CVPR 2024
+- [Feb, 2024] 🤘 Paper accepted to the Second Tiny Papers Track at ICLR 2024 <span style="color: #006400;">[Invite to present]</span>
+- [Oct, 2022] 🤘 Paper accepted to WACV 2023
+- [Jul, 2022] 🔥 Got accepted into the <a href="https://softwarecampus.de/en/program/">Software Campus (2022)</a> program. *Update* Dec, 2023: Finished all 6 trainings regarding methods, social competences.
+- [Jun, 2022] 🤘 Paper accepted to ITSC 2022
 
 ## Peer-reviewed Publications
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">

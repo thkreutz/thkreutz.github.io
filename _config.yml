@@ -24,9 +24,9 @@ author:
   avatar           : "seattle_profile.jpeg"
   name             : "Thomas Kreutz"
   pronouns         : # example: "she/her"  
-  bio              : "Unsupervised ML for Urban Scene Understanding"
+  bio              : "ML for Urban Scene Understanding"
   location         : "Darmstadt, Germany"
-  employer         : "Technical University of Darmstadt"
+  employer         : "Technical University Darmstadt"
   uri              : # URL
   email            : "kreutz@tk.tu-darmstadt.de" 
 
