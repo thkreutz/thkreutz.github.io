@@ -23,7 +23,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
     <img src="/images/publication_images/LionXA.png" alt="a" width="250px">
     <div>
         <h3>LiOn-XA: Unsupervised Domain Adaptation via LiDAR-Only Cross-Modal Adversarial Training</h3>
-        <p><strong>Thomas Kreutz, Jens Lemke, Max Mühlhäuser, Alejandro Sanchez Guinea</strong></p>
+        <p>Thomas Kreutz, Jens Lemke, Max Mühlhäuser, Alejandro Sanchez Guinea</p>
         <p><em>2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em></p>
         <p>
             <a href="/files/kreutz2024lion.pdf">PDF</a> |
@@ -36,7 +36,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
     <img src="/images/publication_images/inc.png" alt="b" width="250px">
     <div>
         <h3>Implicit Neural Clustering</h3>
-        <p><strong>Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</strong></p>
+        <p>Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</p>
         <p><em>Synthetic Data for Computer Vision Workshop@ CVPR 2024</em></p>
         <p>
             <a href="/files/kreutz2024implicit.pdf">PDF</a>
@@ -48,7 +48,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
     <img src="/images/publication_images/csi.png" alt="b" width="250px">
     <div>
         <h3>Common Sense Initialization of Mixture Density Networks for Motion Planning with Overestimated Number of Components</h3>
-        <p><strong>Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</strong></p>
+        <p>Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</p>
         <p><em>SThe Second Tiny Papers Track at ICLR 2024</em></p>
         <p>
             <a href="/files/kreutz2024common.pdf">PDF</a>
@@ -60,7 +60,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
     <img src="/images/publication_images/mots.png" alt="b" width="250px">
     <div>
         <h3>Unsupervised 4D LiDAR Moving Object Segmentation in Stationary Settings With Multivariate Occupancy Time Series</h3>
-        <p><strong>Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</strong></p>
+        <p>Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</p>
         <p><em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023</em></p>
         <p>
             <a href="/files/kreutz2023unsupervised.pdf">PDF</a> |
@@ -74,7 +74,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
     <img src="/images/publication_images/itsc.jpg" alt="b" width="250px">
     <div>
         <h3>Unsupervised Driving Event Discovery based on Vehicle CAN-Data</h3>
-        <p><strong>Thomas Kreutz, Ousama Esbel, Max Mühlhäuser, Alejandro Sanchez Guinea</strong></p>
+        <p>Thomas Kreutz, Ousama Esbel, Max Mühlhäuser, Alejandro Sanchez Guinea</p>
         <p><em>2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)</em></p>
         <p>
             <a href="/files/kreutz2022unsupervised.pdf">PDF</a>
