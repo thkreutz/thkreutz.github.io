@@ -24,7 +24,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
     <div>
         <strong>LiOn-XA: Unsupervised Domain Adaptation via LiDAR-Only Cross-Modal Adversarial Training</strong><br>
         Thomas Kreutz, Jens Lemke, Max Mühlhäuser, Alejandro Sanchez Guinea<br>
-        <em>2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em><br>
+        <em>IROS 2024 <span style="color: #006400;">[Oral]</span></em><br>
             <a href="/files/kreutz2024lion.pdf">PDF</a> |
             <a href="https://github.com/JensLe97/lion-xa">Code</a>
     </div>
@@ -45,7 +45,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
     <div>
         <strong>Common Sense Initialization of Mixture Density Networks for Motion Planning with Overestimated Number of Components</strong><br>
         Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea<br>
-        <em>The Second Tiny Papers Track at ICLR 2024</em><br>
+        <em>The Second Tiny Papers Track at ICLR 2024 <span style="color: #006400;">[Invite to present]</span></em><br>
             <a href="/files/kreutz2024common.pdf">PDF</a>
     </div>
 </div>
@@ -55,7 +55,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
     <div>
         <strong>Unsupervised 4D LiDAR Moving Object Segmentation in Stationary Settings With Multivariate Occupancy Time Series</strong><br>
         Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea<br>
-        <em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023</em><br>
+        <em>WACV 2023</em><br>
         <a href="/files/kreutz2023unsupervised.pdf">PDF</a> | 
         <a href="https://github.com/thkreutz/umosmots">Code</a>
     </div>
@@ -66,7 +66,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
     <div>
         <strong>Unsupervised Driving Event Discovery based on Vehicle CAN-Data</strong><br>
         Thomas Kreutz, Ousama Esbel, Max Mühlhäuser, Alejandro Sanchez Guinea<br>
-        <em>2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)</em><br>
+        <em>ITSC 2022</em><br>
         <a href="/files/kreutz2022unsupervised.pdf">PDF</a>
     </div>
 </div>
