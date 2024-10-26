@@ -45,7 +45,7 @@ Hi! I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. M
     <div>
         <strong>Common Sense Initialization of Mixture Density Networks for Motion Planning with Overestimated Number of Components</strong></br>
         Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</br>
-        <em>SThe Second Tiny Papers Track at ICLR 2024</em></br>
+        <em>The Second Tiny Papers Track at ICLR 2024</em></br>
             <a href="/files/kreutz2024common.pdf">PDF</a>
     </div>
 </div>
