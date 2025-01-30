@@ -10,7 +10,7 @@ redirect_from:
 I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. My main research interests are unsupervised machine learning methods (e.g., clustering, SSL, disentangled representation learning) and deep generative models. My work evolves around applying these kinds of methods for scene understanding in urban environments. In this context, I mainly work with perception tasks (motion segmentation, semantic segmentation), crowd simulation, and snythetic data generation. Data modalities span LiDAR point cloud (videos), images, and (multivariate) time series data. Please find my peer-reviewed publications below if you are interested in my work.
 
 ## Recent highlights
-- [Jan, 2025] 🤘 Paper accepted to ICRA 2025 <span style="color: #006400;">[Oral]</span>
+- [Jan, 2025] 🤘 Paper accepted to ICRA 2025 <span style="color: #006400;">[Presentation]</span>
 - [Jul, 2024] 🤘 Paper accepted to IROS 2024 <span style="color: #006400;">[Oral]</span>
 - [April, 2024] 🤘 Paper accepted to the SynData4CV Workshop@ CVPR 2024
 - [Feb, 2024] 🤘 Paper accepted to the Second Tiny Papers Track at ICLR 2024 <span style="color: #006400;">[Invite to present]</span>
