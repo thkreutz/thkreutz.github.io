@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student (02/2022 - ?) at the Technical University of Darmstadt. My main research interests are unsupervised machine learning methods (e.g., clustering, SSL, disentangled representation learning) and deep generative models. My work evolves around applying these kinds of methods for scene understanding in urban environments. In this context, I mainly work with perception tasks (motion segmentation, semantic segmentation), crowd simulation, and snythetic data generation. Data modalities span LiDAR point cloud (videos), images, and (multivariate) time series data. Please find my peer-reviewed publications below if you are interested in my work.
+I am a Ph.D. candidate (02/2022 - ?) at the Technical University of Darmstadt. My work mainly evolves around LiDAR-based urban scene understanding tasks and (multi-modal)
+representation learning. More specifically, I have worked on various interesting problems and areas, including LiDAR motion segmentation, LiDAR semantic segmentation, crowd simulation, disentangled representation learning, and multi-modal contrastive learning. Please find my peer-reviewed publications below if you are interested in my work.
 
 ## Recent highlights
 - [Jan, 2025] 🤘 Paper accepted to ICRA 2025 <span style="color: #006400;">[Presentation]</span>
