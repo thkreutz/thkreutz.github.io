@@ -26,7 +26,9 @@ representation learning. More specifically, I have worked on various interesting
         <strong>Whenever, Wherever: Towards Orchestrating Crowd Simulations with Spatio-Temporal Spawn Dynamics</strong><br>
         Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea<br>
         <em>ICRA 2025 <span style="color: #006400;">[Presentation]</span></em><br>
-        <em><span style="color: #33beff;">Coming soon</span></em><br>
+        <!--- <em><span style="color: #33beff;">Paper coming soon</span></em><br> -->
+      <a href="[/files/kreutz2024lion.pdf](https://thkreutz.github.io/projects/crowdorchestra.html  )">Project Page</a> |
+          <a href="[https://github.com/JensLe97/lion-xa](https://github.com/thkreutz/crowdorchestrationsim)">Code</a>
     </div>
 </div>
 
