@@ -11,7 +11,7 @@ I am a Ph.D. candidate (02/2022 - ?) at the Technical University of Darmstadt. M
 representation learning. More specifically, I have worked on various interesting problems and areas, including LiDAR motion segmentation, LiDAR semantic segmentation, crowd simulation, disentangled representation learning, and multi-modal contrastive learning. Please find my peer-reviewed publications below if you are interested in my work.
 
 ## Recent highlights
-- [Jan, 2025] 🤘 Paper accepted to ICRA 2025 <span style="color: #006400;">[Presentation]</span>
+- [Jan, 2025] 🤘 Paper accepted to ICRA 2025
 - [Jul, 2024] 🤘 Paper accepted to IROS 2024 <span style="color: #006400;">[Oral]</span>
 - [April, 2024] 🤘 Paper accepted to the SynData4CV Workshop@ CVPR 2024
 - [Feb, 2024] 🤘 Paper accepted to the Second Tiny Papers Track at ICLR 2024 <span style="color: #006400;">[Invite to present]</span>
