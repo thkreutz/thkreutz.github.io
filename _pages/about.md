@@ -11,6 +11,7 @@ I am a Ph.D. candidate (02/2022 - ?) at the Technical University of Darmstadt. M
 representation learning. More specifically, I have worked on various interesting problems and areas, including LiDAR motion segmentation, LiDAR semantic segmentation, crowd simulation, disentangled representation learning, and multi-modal contrastive learning. Please find my peer-reviewed publications below if you are interested in my work.
 
 ## Recent highlights
+- [Jun, 2025] 🔥 Paper accepted to ICCV 2025
 - [Jan, 2025] 🤘 Paper accepted to ICRA 2025
 - [Jul, 2024] 🤘 Paper accepted to IROS 2024 <span style="color: #006400;">[Oral]</span>
 - [April, 2024] 🤘 Paper accepted to the SynData4CV Workshop@ CVPR 2024
@@ -20,6 +21,20 @@ representation learning. More specifically, I have worked on various interesting
 - [Jun, 2022] 🤘 Paper accepted to ITSC 2022
 
 ## Peer-reviewed Publications
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+    <img src="/images/publication_images/despite.png" alt="a" width="250px">
+    <div>
+        <strong>DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity 
+            Understanding</strong><br>
+        Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea<br>
+        <em>ICCV 2025</em><br>
+        <!--- <em><span style="color: #33beff;">Paper coming soon</span></em><br> -->
+      <a href="https://arxiv.org/abs/2506.13897">Arxiv</a> |
+      Project Page (coming soon) |
+          Code (coming soon)
+    </div>
+</div>
+
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img src="/images/publication_images/ntppgmm.png" alt="a" width="250px">
     <div>
