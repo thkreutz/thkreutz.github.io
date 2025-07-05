@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding - Project Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 50px auto;
+            padding: 20px;
+            line-height: 1.8;
+            color: #333;
+        }
+        h1 {
+            color: #0056b3;
+            text-align: center;
+        }
+        .authors {
+            text-align: center;
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        .conference {
+            text-align: center;
+            font-style: italic;
+            font-size: 16px;
+            color: #666;
+        }
+        .teaser {
+            width: 100%;
+            max-width: 800px;
+            border-radius: 10px;
+            display: block;
+            margin: 20px auto;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        .section {
+            margin-top: 30px;
+        }
+        .paper-links {
+            text-align: center;
+            margin-top: 15px;
+        }
+        .paper-links a {
+            text-decoration: none;
+            font-size: 16px;
+            margin: 0 10px;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 5px;
+            display: inline-block;
+        }
+        .github { background: #24292e; }
+        .paper { background: #d73a49; }
+        .arxiv { background: #b31b1b; }
+        .paper-links a:hover {
+            opacity: 0.8;
+        }
+        .video-container {
+            text-align: center;
+        }
+        video {
+            width: 100%;
+            max-width: 600px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        .bibtex {
+            background: #f4f4f4;
+            padding: 15px;
+            font-family: monospace;
+            border-radius: 5px;
+            white-space: pre-wrap;
+            overflow-x: auto;
+        }
+        .back-home {
+            text-align: center;
+            margin-top: 40px;
+        }
+        .back-home a {
+            color: #0056b3;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Paper Title -->
+    <h1>DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding</h1>
+
+    <!-- Authors -->
+    <div class="authors">Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</div>
+
+    <!-- Conference Name -->
+    <div class="conference">To appear in ICCV 2025</div>
+
+    <!-- Paper Links -->
+    <div class="paper-links">
+        <p>
+            <a href="https://arxiv.org/abs/2506.13897" target="_blank">
+                <img src="https://img.shields.io/badge/Paper-ArXiv-red?logo=arxiv" alt="ArXiv">
+            </a>
+            <a href="https://github.com/thkreutz/despite" target="_blank">
+                <img src="https://img.shields.io/badge/Code-GitHub-black?logo=github" alt="GitHub Code">
+            </a>
+            <!--
+            <a href="https://linktopaper.com" target="_blank">
+                <img src="https://img.shields.io/badge/DOI-Published_Paper-blue?logo=academia" alt="DOI">
+            </a>
+            -->
+        </p>
+    </div>
+
+    <!-- Teaser Image -->
+    <img src="../images/publication_images/despite.png" alt="Project Teaser" class="teaser">
+
+    <!-- Abstract Section -->
+    <div class="section">
+        <h2>Abstract</h2>
+        <p>
+            Despite LiDAR (Light Detection and Ranging) being an effective privacy-preserving alternative to RGB cameras to perceive human activities, it remains largely underexplored in the context of multi-modal contrastive pre-training for human activity understanding (e.g., human activity recognition (HAR), retrieval, or person re-identification (RE-ID)). To close this gap, our work explores learning the correspondence between LiDAR point clouds, human skeleton poses, IMU data, and text in a joint embedding space. More specifically, we present DeSPITE, a Deep Skeleton-Pointcloud-IMU-Text Embedding model, which effectively learns a joint embedding space across these four modalities. At the heart of our empirical exploration, we have combined the existing LIPD and Babel datasets, which enabled us to synchronize data of all four modalities, allowing us to explore the learning of a new joint embedding space. Our experiments demonstrate novel human activity understanding tasks for point cloud sequences enabled through DeSPITE, including Skeleton<->Pointcloud<->IMU matching, retrieval, and temporal moment retrieval. Furthermore, we show that DeSPITE is an effective pre-training strategy for point cloud HAR through experiments in MSR-Action3D and HMPEAR.
+        </p>
+    </div>
+
+    <!-- 
+    <div class="section video-container">
+        <h2>Demo Video</h2>
+        <video controls>
+            <source src="demo.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+    Video Section -->
+    <!-- Supplementary GIF 
+    <div class="section">
+        <h2>Crowd Orchestration Results</h2>
+        <img src="../files/eth.gif" alt="Demo GIF" class="teaser">
+    </div>
+    
+    <div class="section">
+        <h2>Crowd analysis through simulation</h2>
+        <img src="../images/publication_images/crowdanalysis.png" alt="Crowd Analysis" class="teaser">
+    </div>
+-->
+
+    <!-- 
+    <div class="section">
+        <h2>Cite This Paper (coming soon)</h2>
+        <pre class="bibtex">
+@inproceedings{author2024title,
+  author    = {Author 1 and Author 2 and Author 3},
+  title     = {Title of the Paper},
+  booktitle = {Proceedings of XYZ Conference},
+  year      = {2024},
+  url       = {https://arxiv.org/abs/xxxx.xxxxx}
+}
+        </pre>
+    </div>
+    BibTeX Citation -->
+    <!-- 
+    <div class="back-home">
+        <p><a href="https://thkreutz.github.io/">Return to Main Website</a></p>
+    </div>
+    Back to Home -->
+</body>
+</html>
