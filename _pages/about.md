@@ -30,7 +30,7 @@ representation learning. More specifically, I have worked on various interesting
         <em>ICCV 2025</em><br>
         <!--- <em><span style="color: #33beff;">Paper coming soon</span></em><br> -->
       <a href="https://arxiv.org/abs/2506.13897">Arxiv</a> |
-      Project Page (coming soon) |
+       <a href="https://thkreutz.github.io/projects/despite.html">Project Page</a>  |
           Code (coming soon)
     </div>
 </div>
