@@ -61,12 +61,6 @@
         .video-container {
             text-align: center;
         }
-        video {
-            width: 100%;
-            max-width: 600px;
-            border-radius: 10px;
-            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-        }
         .bibtex {
             background: #f4f4f4;
             padding: 15px;
@@ -83,6 +77,58 @@
             color: #0056b3;
             font-size: 18px;
         }
+        .carousel-container {
+          position: relative;
+          max-width: 720px;
+          margin: 40px auto;
+        }
+        
+        .carousel {
+          display: flex;
+          overflow: hidden;
+          scroll-behavior: smooth;
+        }
+        
+        .carousel-item {
+          min-width: 100%;
+          box-sizing: border-box;
+          position: relative;
+        }
+        
+        video {
+          width: 100%;
+          height: auto;
+          border-radius: 10px;
+          box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+        }
+        
+        .caption {
+          position: absolute;
+          bottom: 12px;
+          left: 16px;
+          color: white;
+          background: rgba(0,0,0,0.5);
+          padding: 4px 10px;
+          font-size: 14px;
+          border-radius: 4px;
+        }
+        
+        .prev, .next {
+          cursor: pointer;
+          position: absolute;
+          top: 50%;
+          padding: 12px;
+          color: white;
+          background: rgba(0,0,0,0.4);
+          border: none;
+          font-size: 24px;
+          user-select: none;
+          z-index: 10;
+          transform: translateY(-50%);
+        }
+        
+        .prev { left: 10px; }
+        .next { right: 10px; }
     </style>
 </head>
 <body>
@@ -124,6 +170,53 @@
         </p>
     </div>
 
+    <div class="section">
+  <h2>Demo: Matching IMU-subsequence to correct individual in multi-person scenes</h2>
+        <p>
+        Given an IMU-subsequence, we can compute the similarity to point cloud sequences. In this demo, we visualize the embedding similarity (cosine) in every frame of the IMU query sequence of one individual to the point cloud sequences of all individuals.     
+        </p>
+    </div>
+
+<div class="carousel-container">
+  <div class="carousel">
+    <!-- Repeat this block for each match video -->
+    <div class="carousel-item">
+      <video autoplay loop muted playsinline src="../files/matching_0.mp4"></video>
+      <div class="caption">Person 1</div>
+    </div>
+    <div class="carousel-item">
+      <video autoplay loop muted playsinline src="../files/matching_1.mp4"></video>
+      <div class="caption">Person 2</div>
+    </div>
+    <div class="carousel-item">
+      <video autoplay loop muted playsinline src="../files/matching_2.mp4"></video>
+      <div class="caption">Person 3</div>
+    </div>
+    <div class="carousel-item">
+      <video autoplay loop muted playsinline src="../files/matching_3.mp4"></video>
+      <div class="caption">Person 4</div>
+    </div>
+    <div class="carousel-item">
+      <video autoplay loop muted playsinline src="../files/matching_4.mp4"></video>
+      <div class="caption">Person 5</div>
+    </div>
+    <div class="carousel-item">
+      <video autoplay loop muted playsinline src="../files/matching_5.mp4"></video>
+      <div class="caption">Person 6</div>
+    </div>
+    <div class="carousel-item">
+      <video autoplay loop muted playsinline src="../files/matching_6.mp4"></video>
+      <div class="caption">Person 7</div>
+    </div>
+    <div class="carousel-item">
+      <video autoplay loop muted playsinline src="../files/matching_7.mp4"></video>
+      <div class="caption">Person 8</div>
+    </div>
+  </div>
+  <button class="prev">&#10094;</button>
+  <button class="next">&#10095;</button>
+</div>
+                
     <!-- 
     <div class="section video-container">
         <h2>Demo Video</h2>
@@ -164,5 +257,15 @@
         <p><a href="https://thkreutz.github.io/">Return to Main Website</a></p>
     </div>
     Back to Home -->
+
+<script>
+    const carousel = document.querySelector('.carousel');
+    document.querySelector('.next').onclick = () => {
+      carousel.scrollBy({ left: carousel.clientWidth, behavior: 'smooth' });
+    };
+    document.querySelector('.prev').onclick = () => {
+      carousel.scrollBy({ left: -carousel.clientWidth, behavior: 'smooth' });
+    };
+</script>
 </body>
 </html>
