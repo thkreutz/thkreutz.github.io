@@ -31,7 +31,7 @@ representation learning. More specifically, I have worked on various interesting
         <!--- <em><span style="color: #33beff;">Paper coming soon</span></em><br> -->
       <a href="https://arxiv.org/abs/2506.13897">Arxiv</a> |
        <a href="https://thkreutz.github.io/projects/despite.html">Project Page</a>  |
-          Code (coming soon)
+          <a href="https://github.com/thkreutz/despite">Code</a>
     </div>
 </div>
 
