@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I have been a Ph.D. candidate (02/2022 - 07/2025) at the Technical University of Darmstadt and recently submitted and successfully defended my dissertation. My work mainly evolves around LiDAR-based scene understanding tasks and (multi-modal) representation learning. More specifically, I have worked on various interesting problems and areas, including LiDAR motion segmentation, LiDAR semantic segmentation, crowd simulation, and multi-modal contrastive learning. Please find my peer-reviewed publications below if you are interested in my work.
+I have been a Ph.D. candidate (02/2022 - 07/2025) at the Technical University of Darmstadt and recently submitted and successfully defended <a href="https://tuprints.ulb.tu-darmstadt.de/31055/">my dissertation</a>. My work mainly evolves around LiDAR-based scene understanding tasks and (multi-modal) representation learning. More specifically, I have worked on various interesting problems and areas, including LiDAR motion segmentation, LiDAR semantic segmentation, crowd simulation, and multi-modal contrastive learning. Please find my peer-reviewed publications below if you are interested in my work.
 
 ## Recent highlights
 - [Jun, 2025] 🔥 Paper accepted to ICCV 2025
