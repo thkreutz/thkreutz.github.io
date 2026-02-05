@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my Ph.D. (02/2022 - 07/2025) at the Technical University of Darmstadt and recently submitted and successfully defended <a href="https://tuprints.ulb.tu-darmstadt.de/id/eprint/31055">my dissertation</a>. My work mainly evolved around LiDAR-based scene understanding tasks and (multi-modal) representation learning. More specifically, I have worked on various interesting problems and areas, including LiDAR motion segmentation, LiDAR semantic segmentation, crowd simulation, and multi-modal contrastive learning. Please find my peer-reviewed publications below if you are interested in my work. I am currently with the Bundesamt für Kartographie und Geodäsie (https://www.bkg.bund.de/), working at the intersection of digital twins and large-scale airborne LiDAR data.
+I am currently with the Bundesamt für Kartographie und Geodäsie (https://www.bkg.bund.de/), working at the intersection of digital twins and large-scale airborne LiDAR data. Previously, I obtained my Ph.D. (02/2022 - 07/2025) at the Technical University of Darmstadt under the supervision of Prof. Dr. Max Mühlhäuser and Dr. Alejandro Sanchez Guinea (<a href="https://tuprints.ulb.tu-darmstadt.de/id/eprint/31055">my dissertation</a>). My work primarily focused on LiDAR-based scene understanding tasks and (multi-modal) representation learning. More specifically, I have worked on various interesting problems and areas, including LiDAR motion segmentation, LiDAR semantic segmentation, crowd simulation, and multi-modal contrastive learning. Please find my peer-reviewed publications below if you are interested in my work. 
 
 ## Recent highlights
 - [Jun, 2025] 🔥 Paper accepted to ICCV 2025
